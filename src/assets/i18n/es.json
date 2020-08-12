@@ -1,0 +1,12 @@
+{
+    "HOME": {
+        "title": "Inicio",
+        "greeting": "Hola {{name}}! Bienvenido a Ionic Translation.",
+        "withcode": "<br><br>Eres <b>épico</b>!",
+        "btn": "Mostrar alerta"
+    },
+    "ALERT": {
+        "header": "Errorr",
+        "msg": "Hubo un problema con su operación"
+    }
+}
